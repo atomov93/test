@@ -17,6 +17,7 @@
 		B12A4E6328F016D300D4659D /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12A4E6228F016D300D4659D /* testTests.swift */; };
 		B12A4E6D28F016D300D4659D /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12A4E6C28F016D300D4659D /* testUITests.swift */; };
 		B12A4E6F28F016D300D4659D /* testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12A4E6E28F016D300D4659D /* testUITestsLaunchTests.swift */; };
+		B12A4E7C28F0177B00D4659D /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B12A4E7B28F0177B00D4659D /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		B12A4E6828F016D300D4659D /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B12A4E6C28F016D300D4659D /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		B12A4E6E28F016D300D4659D /* testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B12A4E7B28F0177B00D4659D /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = ../../../../Downloads/test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				B12A4E5428F016D300D4659D /* Assets.xcassets */,
 				B12A4E5628F016D300D4659D /* LaunchScreen.storyboard */,
 				B12A4E5928F016D300D4659D /* Info.plist */,
+				B12A4E7B28F0177B00D4659D /* test.mp4 */,
 				B12A4E5128F016D200D4659D /* test.xcdatamodeld */,
 			);
 			path = test;
@@ -237,6 +240,7 @@
 				B12A4E5828F016D300D4659D /* LaunchScreen.storyboard in Resources */,
 				B12A4E5528F016D300D4659D /* Assets.xcassets in Resources */,
 				B12A4E5028F016D200D4659D /* Main.storyboard in Resources */,
+				B12A4E7C28F0177B00D4659D /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
